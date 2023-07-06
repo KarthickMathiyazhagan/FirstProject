@@ -7,7 +7,7 @@ public class Assignment {
 
 		// Assignment operator
 		
-		/*assignment operators are used to assign values to variables
+		/*assignment operators are used to assign values to variables......
 		 * 
 		 *  =  
 		 *  +=
